@@ -1,0 +1,25 @@
+body{
+    background-repeat: repeat-y;
+}
+p{
+    border: 1px solid white;
+    font-family: arial;
+    font-size: medium;
+    line-height: 25px;
+    background-color: white;
+    
+}
+
+.central{
+    text-align: justify;
+    font-family: arial;
+    margin: 100px auto;
+    padding: 50px;
+    width: 1000px;
+    height: 1800px;
+    text-decoration-color: white;
+}
+
+h1{
+    text-align: center;
+}
